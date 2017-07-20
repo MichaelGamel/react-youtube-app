@@ -1,5 +1,5 @@
 {
-  "name": "youtube-app",
+  "name": "react-youtube-app",
   "version": "1.0.0",
   "description": "Simple youtube app by React and Babel support",
   "main": "index.js",
